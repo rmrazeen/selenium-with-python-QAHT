@@ -2,12 +2,9 @@
 
 This repository contains Python scripts related to Selenium automation. The files demonstrate various concepts and functionalities, including:
 
-- **Object-Oriented Programming (OOP) concepts**: `01_oops.py`, `02_oops.py`, `Class.py`
-- **Functions and arguments**: `function.py`, `functionArgs.py`
-- **Calculator implementation**: `calculator.py`, `test_calculator.py`
-- **Selenium locators**: `locators_01.py`, `locators_02.py`, `xpath.py`
-- **Test scripts**: `test_01.py`, `test.py`, `test2.py`
-- **Looping constructs**: `testLoop.py`
+
+- **Selenium locators**: `locators_task_01.py`
+
 
 ## Files Overview:
 
@@ -27,3 +24,4 @@ Each Python file can be run individually to observe its specific functionality. 
 
 ```bash
 python your_script_name.py
+
